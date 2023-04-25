@@ -9,3 +9,5 @@ def sum(a,b):
     return a 
 
 print("added a new function sum which is not correct")
+
+print("added a new function sum which is correct")
